@@ -19,6 +19,9 @@
 
 Установите и запустите memcached.
 
+![image](https://github.com/FadMikhail/cash-Redis-memcached/assets/132131230/dc276cd4-af2b-4da4-9691-0885d86ba926)
+
+
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
 ---
